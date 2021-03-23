@@ -1,0 +1,2 @@
+# Project-Management-Project
+create a Java program which will help your sister study for her SDLC test. Your system must include points to study from, as well as a multiple choice quiz (10 questions) for practice, which will be automatically graded and feedback given. These study notes and questions must be read from external files (so they can easily be updated). You and your partner(s) will be using the stages of the SDLC to complete this project. 
